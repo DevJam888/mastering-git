@@ -1,5 +1,4 @@
-## Yo everyone, welcome to my guide!
+## Welcome to Git!
 
--Yo, Johnny here!
-
+- This is coming from devJam
 - I'm adding this from 'feature-branch'
